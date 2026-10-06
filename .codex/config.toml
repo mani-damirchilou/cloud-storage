@@ -1,0 +1,3 @@
+[mcp_servers.laravel-boost]
+command = "wsl.exe"
+args = ["/home/mani/.config/herd-lite/bin/php", "/home/mani/www/cloud-storage/artisan", "boost:mcp"]
